@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+
+div {
+  box-sizing: border-box;
+}
+
+.bg-color {
+  background-color: #f7f9fc;
+}
+
+.pt-color {
+  color: #6fbaf8;
+}
+
+.wh-box {
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.btn-etc {
+  padding-left: 25px;
+  padding-right: 25px;
+  background-color: #6fbaf8;
+  border: #6fbaf8;
+}
+
+.rd {
+  border-radius: 10px;
+}
+
+.bar-l {
+  border-left: 2px solid #d6d6d6;
+}
