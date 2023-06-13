@@ -2,6 +2,14 @@ body {
   margin: 0;
 }
 
+a {
+  text-decoration: none;
+}
+
+hr {
+  border: 1px solid;
+}
+
 .bg-color {
   background-color: #f7f9fc;
 }
@@ -28,16 +36,12 @@ body {
 }
 
 .bar-b1 {
-  border-bottom: 4px solid #6fbaf8;
+  border-bottom: 3px solid #6fbaf8;
   font-weight: bold;
 }
 
 .bar-b2 {
-  border-bottom: 4px solid lightgray;
-}
-
-a {
-  text-decoration: none;
+  border-bottom: 3px solid lightgray;
 }
 
 .pill {
